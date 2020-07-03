@@ -1,2 +1,2 @@
 # hello-world
-Lets start a new thing.
+Just the begining
